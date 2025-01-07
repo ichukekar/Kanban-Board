@@ -39,7 +39,7 @@ const Signup = () => {
   };
 
   return (
-    <div className=" flex flex-grow items-center justify-center bg-gray-100">
+    <div className=" flex flex-grow items-center justify-center loginpage">
       {loading && <LoadingAnimation />}
 
       <div className="bg-white p-8 rounded-lg shadow-md w-full max-w-md">
