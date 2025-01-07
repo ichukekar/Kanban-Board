@@ -1,6 +1,6 @@
 # React + Vite
 
-[Live Demo](https://kanban-board-kohl-three.vercel.app/) - https://kanban-board-kohl-three.vercel.app/
+[Live Demo](https://kanban-board-iwl2.vercel.app/) - https://kanban-board-iwl2.vercel.app/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
